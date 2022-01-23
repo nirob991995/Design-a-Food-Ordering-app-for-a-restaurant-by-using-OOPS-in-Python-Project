@@ -30,8 +30,8 @@ Place New Order: The user can place a new order at the restaurant.
 Show list of food. 
 The list item should as follows: 
 1. Tandoori Chicken (4 pieces) [INR 240] 
-2. 2. Vegan Burger (1 Piece) [INR 320] 
-3. 3. Truffle Cake (500gm) [INR 900] 
+2. Vegan Burger (1 Piece) [INR 320] 
+3. Truffle Cake (500gm) [INR 900] 
 4. Users should be able to select food by entering an array of numbers. 
 5. For example, if the user wants to order Vegan Burger and Truffle Cake they should enter [2, 3] Once the items are selected user should see the list of all the items selected. The user will also get an option to place an order. 
 6. Order History should show a list of all the previous orders
